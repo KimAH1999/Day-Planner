@@ -16,4 +16,4 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
- Example goal: 
+ Example goal: https://kimah1999.github.io/Day-Planner/
