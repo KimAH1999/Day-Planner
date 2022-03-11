@@ -1,3 +1,4 @@
+/*STYLE SECTION*/
 /*body section is overall everything*/
 body {
   font-family: 'Open Sans', sans-serif;
@@ -51,17 +52,13 @@ textarea {
   border-top: 1px dashed #000000;
   padding-top: 40px;
 }
-
+/*PAST TIME hightlight in container*/
 .past {
   background-color: #e28686;
   color: white;
 }
 
-.future {
-  background-color: #77dd77;
-  color: white;
-}
-
+/*SaveBTN far right on each container section */
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
@@ -74,7 +71,7 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
-
+/*Sizing on web page*/
 @media screen and (max-width: 768px){
   .row{
     height: auto;
