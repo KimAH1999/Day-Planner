@@ -24,7 +24,7 @@ This section was a must to come back and study because the importance of knowing
 To install necessary dependencies, run the following command:
 
 ```
-
+No installation needed for testing this section
 ```
 
 ## Usage
@@ -40,7 +40,7 @@ Available to be reached through Linkdin and Slack, which is avilable in personal
 To run tests, run the following command:
 
 ```
-npm test
+STEPS: 'RIGHT CLICK index.html', in Visual Studio, then click on 'Open In Default Browser'
 ```
 
 ## Questions
