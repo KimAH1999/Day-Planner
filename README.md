@@ -29,7 +29,7 @@ No installation needed for testing this section
 
 ## Usage
 
-![image](https://user-images.githubusercontent.com/87666809/157984012-70102297-386c-490c-81e8-26d43d9fdd69.png)
+![image](https://user-images.githubusercontent.com/87666809/158437331-d95ed6ed-4ec6-46b9-bceb-0ee3d80de1fd.png)
   
 ## Contributing
 
