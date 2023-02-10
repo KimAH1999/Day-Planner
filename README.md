@@ -11,8 +11,6 @@ This section was a must to come back and study because the importance of knowing
 
 * [Usage](#usage)
 
-* [License](#license)
-
 * [Contributing](#contributing)
 
 * [Tests](#tests)
@@ -29,7 +27,8 @@ No installation needed for testing this section
 
 ## Usage
 
-![image](https://user-images.githubusercontent.com/87666809/158437331-d95ed6ed-4ec6-46b9-bceb-0ee3d80de1fd.png)
+![demoPreviewPlanner](https://user-images.githubusercontent.com/87666809/218193563-d91a32be-20ad-4cec-b201-e92d319ab2ed.png)
+
   
 ## Contributing
 
