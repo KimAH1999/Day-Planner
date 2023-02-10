@@ -27,7 +27,7 @@ No installation needed for testing this section
 ```
 
 ## Usage
-
+Demo Link: https://kimah1999.github.io/Day-Planner/
 ![demoPreviewPlanner](https://user-images.githubusercontent.com/87666809/218193563-d91a32be-20ad-4cec-b201-e92d319ab2ed.png)
 
   
