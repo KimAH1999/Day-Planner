@@ -3,7 +3,8 @@
 
 ## Description
 
-This section was a must to come back and study because the importance of knowing how to add a automatic updated time description was a good skill to obtain. 
+This program acts like a Daily Planner instead of an original monthly calendar to insure tasks are done as time passes by the hour.
+This section is good for revisit to  help me understanding how time can be manipulated for CSS possibilities.
 
 ## Table of Contents 
 
