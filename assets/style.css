@@ -4,11 +4,20 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 19px;
   line-height: 1;
-  background-image: url("planningIcon.jpg");
+  background-color: rgba(80, 197, 255, 0.346);
 }
 /*Top Header section font*/
 .lead {
-  font-weight: bold;
+  font-weight: 500;
+}
+
+.leadImg {
+  height:1rem;
+  font-size: 1.75em;
+}
+
+.container {
+  max-width: 85%;
 }
 /*description container & also part header container*/
 textarea {
@@ -21,13 +30,18 @@ textarea {
   backdrop-filter: blur(10px);
 }
 
+textarea.col-md-10.description {
+  background-color: rgba(127, 174, 255, 0.477);
+}
+
+
 .jumbotron {
   text-align: center;
-  background-color: transparent;
+  background-color: #ffffff;
+  opacity: 1.0;
   color: black;
   border-radius: 10% / 50%;
   border-bottom: 10px solid black;
-  backdrop-filter: blur(5px);
 }
 /*container outline white space seperation for description*/
 .description {
@@ -36,32 +50,32 @@ textarea {
 /*container overall (HHAM/PM | description | saveBTN)*/
 .time-block {
   text-align: center;
-  border-radius: 15px;
+  border-radius: 30px;
 }
 /*div for the rows of time-continaters*/
 .row {
   white-space: pre-wrap;
-  height: 100px;
+  height: 70px;
   border-top: 1px solid white;
 }
 /*all hour square container */
 .hour {
-  background-color: #ebebc3;
+  background-color: #ebebc3f6;
   color: #000000;
   border-top: 1px dashed #000000;
   border-top: 1px dashed #000000;
-  padding-top: 40px;
+  padding-top: 25px;
 }
 /*PAST TIME hightlight in container*/
 .past {
-  background-color: #e28686;
+  background-color: #e28686b9;
   color: white;
 }
 
 /*SaveBTN far right on each container section */
 .saveBtn {
   border-left: 1px solid black;
-  border-top-right-radius: 15px;
+  border-top-right-radius: 35px;
   border-bottom-right-radius: 15px;
   background-color: #06aed5;
   color: white;
